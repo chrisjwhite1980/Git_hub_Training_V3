@@ -1,1 +1,3 @@
 This is a Sample file!
+
+Git revert commit 1
